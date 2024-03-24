@@ -1,4 +1,4 @@
-# Punteros-dinamicos
+# Features
 - Realizacion de diferentes programas usando punteros.
 - Definir almacenamiento.
 - Eliminar almacenamiento cuando se termine de ejecutar el programa.
